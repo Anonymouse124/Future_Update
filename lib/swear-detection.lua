@@ -35,7 +35,11 @@ local DETECTIONS = {
         "lxst",
         "lust",
         "nsfw",
-        "18+"
+        "18+", 
+        "wizzard",
+        "Wizard",
+        "Wizzard",
+        "wizard"
     },
     ["Bullying"] = {
         "gay",
