@@ -36,10 +36,7 @@ local DETECTIONS = {
         "lust",
         "nsfw",
         "18+", 
-        "wizzard",
-        "Wizard",
-        "Wizzard",
-        "wizard"
+
     },
     ["Bullying"] = {
         "gay",
@@ -90,6 +87,10 @@ local DETECTIONS = {
         "ac",
         "developer",
         "dev",
+        "wizzard", -- A Wizzard
+        "Wizard", -- A Wizard
+        "Wizzard", -- A Wizzard
+        "wizard", -- A Wizard
         
     },
     ["Cheating/Exploiting"] = {
